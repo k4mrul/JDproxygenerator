@@ -4,8 +4,7 @@ Using socks-proxy.net it builds a list of proxies able to be imported and ready 
 
 - Added a socksv4 checker which checks whether the proxy is alive or not
 
-You need to download the code first:
-[DOWNLOAD](https://github.com/masterofobzene/JDproxygenerator/archive/refs/heads/main.zip)
+Clone the repo
 
 Then, with a CMD inside that decompressed folder (JDproxygenerator-main), install dependencies:
 ```
