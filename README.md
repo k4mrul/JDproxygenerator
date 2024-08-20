@@ -1,4 +1,4 @@
-# JDownloader proxylist generator
+# JDownloader proxylist generator with checker
 
 Using socks-proxy.net it builds a list of proxies able to be imported and ready to use for JDownloader
 
